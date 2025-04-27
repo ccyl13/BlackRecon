@@ -1,11 +1,10 @@
 # BlackRecon
 
-**Version:** 1.0  
 **Release Date:** 27 de abril de 2025  
 **Developed by:** Thomas O'Neil Álvarez  
 **License:** MIT  
 **Repository:** [GitHub](https://github.com/ccyl13/BlackRecon)  
-**Project Status:** Active 🚀
+**Project Status:** Active 
 
 ---
 
@@ -145,11 +144,11 @@ Free for personal and commercial use, with attribution.
 
 ## 📈 Changelog
 
-- **v1.0 (27-Apr-2025):** First official release of BlackRecon.
+- **(27-Apr-2025):** First official release of BlackRecon.
 
 ---
 
 ## 🛡️ Support
 
 If you find any issues, please open a GitHub issue or contact me through the repository.  
-Happy auditing! 🚀
+Happy auditing!🥷🏻
