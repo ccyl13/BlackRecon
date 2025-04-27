@@ -1,8 +1,5 @@
 # BlackRecon
 
-![BlackRecon](https://github.com/ccyl13/BlackRecon/blob/main/ingresar%20url.png?raw=true)
-![BlackRecon Results](https://github.com/ccyl13/BlackRecon/blob/main/results.png?raw=true)
-
 **Version:** 1.0  
 **Release Date:** 27 de abril de 2025  
 **Developed by:** Thomas O'Neil Álvarez  
